@@ -17,6 +17,8 @@ StreamOps plans livestreams, coordinates production, tracks sponsorships and cos
 | **Automations** | Generate production checklist (draft, one run per stream); Ingest Twitch sync payload (draft, webhook upsert) |
 | **Data** | 221 synthetic records with deliberate failures for every demo scenario |
 
+**Web dashboard:** a dark control-room front end in [`web/`](web/README.md) reads the base and shows what's on air, the week's schedule, data health and finance. Run it with `cd web && npm install && npm run dev`; it works on a demo snapshot until you add a read-only Airtable token.
+
 Full field-level documentation: [docs/schema.md](docs/schema.md). Every field also carries an Airtable field description, so the base documents itself.
 
 ## Architecture

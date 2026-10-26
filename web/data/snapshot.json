@@ -1,0 +1,726 @@
+{
+ "capturedAt": "2026-10-26T17:45:00.000Z",
+ "note": "Synthetic demo data captured from the StreamOps base. Same shape as the Airtable REST API.",
+ "tables": {
+  "Streams": [
+   {
+    "id": "recOlPf3jH4c9IW0s",
+    "fields": {
+     "Title": "Ranked Grind Night",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recOlPf3jH4c9IW0s",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-09-22T01:00:00.000Z",
+     "Started At": "2026-09-22T01:02:00.000Z",
+     "Ended At": "2026-09-22T04:05:00.000Z",
+     "Platform Stream ID": "4100000001",
+     "Stream Cost": 960,
+     "Actual Revenue": 1937.91,
+     "Contribution Margin": 977.91,
+     "Avg Viewers": 820,
+     "Peak Viewers": 1280,
+     "Watch Hours (Est.)": 2501,
+     "Last Synced At": "2026-09-22T04:20:00.000Z",
+     "Creator Name": [
+      "Nova Reyes"
+     ]
+    }
+   },
+   {
+    "id": "recb8WQgBEVZovtoq",
+    "fields": {
+     "Title": "Indie Game Showcase",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recb8WQgBEVZovtoq",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-09-24T02:00:00.000Z",
+     "Started At": "2026-09-24T02:05:00.000Z",
+     "Ended At": "2026-09-24T05:00:00.000Z",
+     "Platform Stream ID": "4100000002",
+     "Stream Cost": 945,
+     "Actual Revenue": 832.33,
+     "Contribution Margin": -112.67,
+     "Avg Viewers": 410,
+     "Peak Viewers": 604,
+     "Watch Hours (Est.)": 1197.2,
+     "Last Synced At": "2026-09-24T05:15:00.000Z",
+     "Creator Name": [
+      "Kai Thornton"
+     ]
+    }
+   },
+   {
+    "id": "recju5vEAYYIN97Yx",
+    "fields": {
+     "Title": "Pasta From Scratch",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recju5vEAYYIN97Yx",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-09-27T00:00:00.000Z",
+     "Started At": "2026-09-27T00:01:00.000Z",
+     "Ended At": "2026-09-27T02:10:00.000Z",
+     "Platform Stream ID": "4100000003",
+     "Stream Cost": 975,
+     "Actual Revenue": 3179.99,
+     "Contracted Sponsorship": 2500,
+     "Contribution Margin": 2204.99,
+     "Avg Viewers": 260,
+     "Peak Viewers": 448,
+     "Watch Hours (Est.)": 559,
+     "Last Synced At": "2026-09-27T02:30:00.000Z",
+     "Creator Name": [
+      "Mira Okafor"
+     ]
+    }
+   },
+   {
+    "id": "reckMq1fUUAZKJavn",
+    "fields": {
+     "Title": "PC Build Live",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-reckMq1fUUAZKJavn",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-01T01:00:00.000Z",
+     "Started At": "2026-10-01T01:00:00.000Z",
+     "Ended At": "2026-10-01T04:30:00.000Z",
+     "Platform Stream ID": "4100000004",
+     "Stream Cost": 1775,
+     "Actual Revenue": 1288.19,
+     "Invoiced Revenue": 2000,
+     "Contracted Sponsorship": 2000,
+     "Contribution Margin": -486.81,
+     "Avg Viewers": 540,
+     "Peak Viewers": 775,
+     "Watch Hours (Est.)": 1890,
+     "Last Synced At": "2026-10-01T04:45:00.000Z",
+     "Creator Name": [
+      "Dex Lindqvist"
+     ]
+    }
+   },
+   {
+    "id": "reclMuTTCnvS8M6QS",
+    "fields": {
+     "Title": "Ranked Grind Night #2",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-reclMuTTCnvS8M6QS",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-04T01:00:00.000Z",
+     "Started At": "2026-10-04T01:03:00.000Z",
+     "Ended At": "2026-10-04T04:00:00.000Z",
+     "Platform Stream ID": "4100000005",
+     "Stream Cost": 975,
+     "Actual Revenue": 3668.04,
+     "Contracted Sponsorship": 1500,
+     "Contribution Margin": 2693.04,
+     "Avg Viewers": 910,
+     "Peak Viewers": 1517,
+     "Watch Hours (Est.)": 2684.5,
+     "Last Synced At": "2026-10-04T04:10:00.000Z",
+     "Creator Name": [
+      "Nova Reyes"
+     ]
+    }
+   },
+   {
+    "id": "recrmrHjXdsU01ube",
+    "fields": {
+     "Title": "Co-op Chaos",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recrmrHjXdsU01ube",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 1,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-08T02:00:00.000Z",
+     "Started At": "2026-10-08T02:02:00.000Z",
+     "Ended At": "2026-10-08T05:30:00.000Z",
+     "Platform Stream ID": "4100000006",
+     "Stream Cost": 945,
+     "Actual Revenue": 1323.1,
+     "Contribution Margin": 378.1,
+     "Avg Viewers": 470,
+     "Peak Viewers": 743,
+     "Watch Hours (Est.)": 1630.9,
+     "Last Synced At": "2026-10-08T05:40:00.000Z",
+     "Creator Name": [
+      "Kai Thornton"
+     ]
+    }
+   },
+   {
+    "id": "recQoZJoxiCN5GMhl",
+    "fields": {
+     "Title": "Co-op Chaos",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recQoZJoxiCN5GMhl",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 1,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Awaiting metrics",
+     "Scheduled At": "2026-10-08T02:00:00.000Z",
+     "Started At": "2026-10-08T02:02:00.000Z",
+     "Ended At": "2026-10-08T05:30:00.000Z",
+     "Platform Stream ID": "4100000006",
+     "Last Synced At": "2026-10-08T05:41:00.000Z",
+     "Creator Name": [
+      "Kai Thornton"
+     ]
+    }
+   },
+   {
+    "id": "recBIZpMXGgLucjxQ",
+    "fields": {
+     "Title": "Harvest Table Cook-Along",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recBIZpMXGgLucjxQ",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-11T00:00:00.000Z",
+     "Started At": "2026-10-11T00:00:00.000Z",
+     "Ended At": "2026-10-11T02:00:00.000Z",
+     "Platform Stream ID": "4100000007",
+     "Stream Cost": 1035,
+     "Actual Revenue": 174.82,
+     "Invoiced Revenue": 2500,
+     "Estimated Revenue": 592.44,
+     "Contracted Sponsorship": 2500,
+     "Contribution Margin": -860.18,
+     "Avg Viewers": 330,
+     "Peak Viewers": 471,
+     "Watch Hours (Est.)": 660,
+     "Last Synced At": "2026-10-11T02:15:00.000Z",
+     "Creator Name": [
+      "Mira Okafor"
+     ]
+    }
+   },
+   {
+    "id": "recoHPKbHJfWsK9mt",
+    "fields": {
+     "Title": "Keyboard Mod Workshop",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recoHPKbHJfWsK9mt",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-15T01:00:00.000Z",
+     "Started At": "2026-10-15T01:05:00.000Z",
+     "Ended At": "2026-10-15T03:50:00.000Z",
+     "Platform Stream ID": "4100000008",
+     "Stream Cost": 1635,
+     "Actual Revenue": 2390.03,
+     "Estimated Revenue": 1212.09,
+     "Contracted Sponsorship": 2000,
+     "Contribution Margin": 755.03,
+     "Avg Viewers": 600,
+     "Peak Viewers": 992,
+     "Watch Hours (Est.)": 1650,
+     "Last Synced At": "2026-10-15T04:00:00.000Z",
+     "Creator Name": [
+      "Dex Lindqvist"
+     ]
+    }
+   },
+   {
+    "id": "recpBRuglB30BCKXm",
+    "fields": {
+     "Title": "Volt Energy 12-Hour Charity Stream",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recpBRuglB30BCKXm",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 1,
+     "Sync Freshness": "Stale",
+     "Data Completeness": "Stale metrics",
+     "Scheduled At": "2026-10-18T17:00:00.000Z",
+     "Started At": "2026-10-18T17:00:00.000Z",
+     "Ended At": "2026-10-19T05:00:00.000Z",
+     "Platform Stream ID": "4100000009",
+     "Stream Cost": 3480,
+     "Actual Revenue": 6000,
+     "Estimated Revenue": 3768.16,
+     "Contracted Sponsorship": 6000,
+     "Contribution Margin": 2520,
+     "Avg Viewers": 1450,
+     "Peak Viewers": 2057,
+     "Watch Hours (Est.)": 16675,
+     "Last Synced At": "2026-10-19T04:30:00.000Z",
+     "Creator Name": [
+      "Nova Reyes"
+     ]
+    }
+   },
+   {
+    "id": "rechML0QmH7Dkur0h",
+    "fields": {
+     "Title": "Studio Q&A",
+     "Status": "Cancelled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-rechML0QmH7Dkur0h",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-20T01:00:00.000Z",
+     "Creator Name": [
+      "Sol Amari"
+     ]
+    }
+   },
+   {
+    "id": "recMvONjY548u5EJC",
+    "fields": {
+     "Title": "Retro Speedrun Night",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recMvONjY548u5EJC",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 1,
+     "Sync Freshness": "Never synced",
+     "Data Completeness": "Awaiting metrics",
+     "Scheduled At": "2026-10-22T02:00:00.000Z",
+     "Started At": "2026-10-22T02:00:00.000Z",
+     "Ended At": "2026-10-22T04:40:00.000Z",
+     "Platform Stream ID": "4100000010",
+     "Stream Cost": 975,
+     "Creator Name": [
+      "Kai Thornton"
+     ]
+    }
+   },
+   {
+    "id": "recoRPXttBG5xdd8e",
+    "fields": {
+     "Title": "Fall Baking Special",
+     "Status": "Completed",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recoRPXttBG5xdd8e",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Awaiting costs",
+     "Scheduled At": "2026-10-25T00:00:00.000Z",
+     "Started At": "2026-10-25T00:02:00.000Z",
+     "Ended At": "2026-10-25T02:20:00.000Z",
+     "Platform Stream ID": "4100000011",
+     "Estimated Revenue": 520,
+     "Avg Viewers": 290,
+     "Peak Viewers": 468,
+     "Watch Hours (Est.)": 667,
+     "Last Synced At": "2026-10-25T02:35:00.000Z",
+     "Creator Name": [
+      "Mira Okafor"
+     ]
+    }
+   },
+   {
+    "id": "recz4YVQOIA9ndHBz",
+    "fields": {
+     "Title": "Keystone Unboxing",
+     "Status": "Live",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recz4YVQOIA9ndHBz",
+     "Open Tasks": 1,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "Fresh",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-26T16:00:00.000Z",
+     "Started At": "2026-10-26T16:01:00.000Z",
+     "Platform Stream ID": "4100000012",
+     "Stream Cost": 590,
+     "Contracted Sponsorship": 2500,
+     "Avg Viewers": 380,
+     "Peak Viewers": 545,
+     "Watch Hours (Est.)": 380,
+     "Last Synced At": "2026-10-26T17:00:00.000Z",
+     "Creator Name": [
+      "Dex Lindqvist"
+     ]
+    }
+   },
+   {
+    "id": "recNNbbGa18TXDS2M",
+    "fields": {
+     "Title": "Ranked Grind Night #3",
+     "Status": "Scheduled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recNNbbGa18TXDS2M",
+     "Open Tasks": 4,
+     "Overdue Tasks": 2,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-28T01:00:00.000Z",
+     "Contracted Sponsorship": 1500,
+     "Creator Name": [
+      "Nova Reyes"
+     ]
+    }
+   },
+   {
+    "id": "rect6w325YyGHMN0N",
+    "fields": {
+     "Title": "Horror Game Marathon",
+     "Status": "Scheduled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-rect6w325YyGHMN0N",
+     "Open Tasks": 5,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-10-31T23:00:00.000Z",
+     "Contracted Sponsorship": 1500,
+     "Creator Name": [
+      "Kai Thornton"
+     ]
+    }
+   },
+   {
+    "id": "recAoz0ryuMi1bZYL",
+    "fields": {
+     "Title": "Northwind VPN Kickoff",
+     "Status": "Scheduled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recAoz0ryuMi1bZYL",
+     "Open Tasks": 5,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-11-05T02:00:00.000Z",
+     "Contracted Sponsorship": 3000,
+     "Creator Name": [
+      "Nova Reyes"
+     ]
+    }
+   },
+   {
+    "id": "recA5Po5Uxvvd2I2c",
+    "fields": {
+     "Title": "Holiday Setup Tour",
+     "Status": "Scheduled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recA5Po5Uxvvd2I2c",
+     "Open Tasks": 5,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-11-08T02:00:00.000Z",
+     "Contracted Sponsorship": 1500,
+     "Creator Name": [
+      "Dex Lindqvist"
+     ]
+    }
+   },
+   {
+    "id": "recpb2Wampm9W3vnJ",
+    "fields": {
+     "Title": "Collab Night (host TBD)",
+     "Status": "Scheduled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recpb2Wampm9W3vnJ",
+     "Open Tasks": 5,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 1,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Incomplete",
+     "Scheduled At": "2026-11-12T03:00:00.000Z",
+     "Missing Fields": "Creator;"
+    }
+   },
+   {
+    "id": "rec9StwskdhKgVkAl",
+    "fields": {
+     "Title": "Thanksgiving Prep Stream",
+     "Status": "Scheduled",
+     "Platform": "Twitch",
+     "Stream ID": "STR-rec9StwskdhKgVkAl",
+     "Open Tasks": 5,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Complete",
+     "Scheduled At": "2026-11-21T01:00:00.000Z",
+     "Contracted Sponsorship": 1500,
+     "Creator Name": [
+      "Mira Okafor"
+     ]
+    }
+   },
+   {
+    "id": "recmwS82VMEFAM8Js",
+    "fields": {
+     "Title": "Viewer Game Night",
+     "Status": "Draft",
+     "Platform": "Twitch",
+     "Stream ID": "STR-recmwS82VMEFAM8Js",
+     "Open Tasks": 0,
+     "Overdue Tasks": 0,
+     "Open Exceptions": 0,
+     "Sync Freshness": "N/A",
+     "Data Completeness": "Incomplete",
+     "Creator Name": [
+      "Kai Thornton"
+     ],
+     "Missing Fields": "Scheduled At;"
+    }
+   }
+  ],
+  "Exceptions": [
+   {
+    "id": "recYMimF3QZkrtSAu",
+    "fields": {
+     "Summary": "Twitch token expired: post-stream metrics not collected",
+     "Type": "Auth Failure",
+     "Severity": "Critical",
+     "Status": "Open",
+     "Detected At": "2026-10-22T04:45:04.000Z",
+     "Stream": [
+      "recMvONjY548u5EJC"
+     ],
+     "Resolution Notes": "Next step: rotate the client secret in the integration's .env, re-run the sync for this stream. Do NOT paste tokens here."
+    }
+   },
+   {
+    "id": "recuWPvzaRfpchPXj",
+    "fields": {
+     "Summary": "Final metrics missing: sync ran before stream ended",
+     "Type": "Stale Data",
+     "Severity": "High",
+     "Status": "Investigating",
+     "Detected At": "2026-10-19T06:00:00.000Z",
+     "Stream": [
+      "recpBRuglB30BCKXm"
+     ],
+     "Resolution Notes": "Root cause: job scheduled off Scheduled At + planned duration instead of the stream's actual end. Fix: trigger post-stream sync on status change to Completed."
+    }
+   },
+   {
+    "id": "recU1HkNcZpXvyWd8",
+    "fields": {
+     "Summary": "Duplicate stream for platform id 4100000006",
+     "Type": "Duplicate",
+     "Severity": "High",
+     "Status": "Open",
+     "Detected At": "2026-10-08T06:00:00.000Z",
+     "Stream": [
+      "recrmrHjXdsU01ube",
+      "recQoZJoxiCN5GMhl"
+     ],
+     "Resolution Notes": "Keep the original (Synthetic source), move any links from the duplicate, then delete the duplicate. Prevention: upsert on Platform Stream ID."
+    }
+   },
+   {
+    "id": "recmJUycsKxCA2pkQ",
+    "fields": {
+     "Summary": "Ad payout references a Stream ID that does not exist",
+     "Type": "Unmatched Financial Record",
+     "Severity": "Medium",
+     "Status": "Open",
+     "Detected At": "2026-10-20T18:00:00.000Z",
+     "Resolution Notes": "Quarantined: not assigned to any stream. Confirm the correct stream with Finance before linking."
+    }
+   },
+   {
+    "id": "recW5XXez2UOmhbMo",
+    "fields": {
+     "Summary": "Scheduled stream has no creator",
+     "Type": "Missing Required Field",
+     "Severity": "Medium",
+     "Status": "Open",
+     "Detected At": "2026-10-26T17:15:00.000Z",
+     "Stream": [
+      "recpb2Wampm9W3vnJ"
+     ]
+    }
+   },
+   {
+    "id": "recWbyjwMOWuKbZ6P",
+    "fields": {
+     "Summary": "Rate limited during post-stream sync",
+     "Type": "Sync Failure",
+     "Severity": "Low",
+     "Status": "Resolved",
+     "Detected At": "2026-10-04T04:05:30.000Z",
+     "Stream": [
+      "reclMuTTCnvS8M6QS"
+     ],
+     "Resolution Notes": "Automatic backoff and retry succeeded. No action needed."
+    }
+   }
+  ],
+  "Sync Runs": [
+   {
+    "id": "recMLho0Ui5an7yGw",
+    "fields": {
+     "Run Label": "Live sync \u00b7 Keystone Unboxing",
+     "Status": "Running",
+     "Started At": "2026-10-26T17:00:00.000Z",
+     "Records Processed": 1
+    }
+   },
+   {
+    "id": "recabPHLpiOwNOhEu",
+    "fields": {
+     "Run Label": "Synthetic seed load",
+     "Status": "Succeeded",
+     "Started At": "2026-10-26T17:12:00.000Z",
+     "Records Processed": 208,
+     "Retry Outcome": "Not retried"
+    }
+   },
+   {
+    "id": "recx6ts8531cF9JKB",
+    "fields": {
+     "Run Label": "Post-stream sync \u00b7 Retro Speedrun Night",
+     "Status": "Failed",
+     "Started At": "2026-10-22T04:45:00.000Z",
+     "Records Processed": 0,
+     "Retry Outcome": "Retry failed",
+     "Error Message": "401 Unauthorized: app access token expired. (Token value never logged.)"
+    }
+   },
+   {
+    "id": "rec5nHoJV5tJH7vHw",
+    "fields": {
+     "Run Label": "Post-stream sync \u00b7 Volt Energy 12-Hour Charity Stream",
+     "Status": "Partial",
+     "Started At": "2026-10-19T04:25:00.000Z",
+     "Records Processed": 2,
+     "Retry Outcome": "Not retried",
+     "Error Message": "Scheduled job ran on the planned end time, but the stream ran 30 min long. Final viewer samples were never collected."
+    }
+   },
+   {
+    "id": "recrpxyTTfU29PjrA",
+    "fields": {
+     "Run Label": "Post-stream sync \u00b7 Co-op Chaos (replayed payload)",
+     "Status": "Partial",
+     "Started At": "2026-10-08T05:41:00.000Z",
+     "Records Processed": 1,
+     "Retry Outcome": "Not retried",
+     "Error Message": "Same payload delivered twice; naive insert created a second Streams record for platform id 4100000006 instead of upserting."
+    }
+   },
+   {
+    "id": "recngrD8iFlGlRtJu",
+    "fields": {
+     "Run Label": "Post-stream sync \u00b7 Ranked Grind Night #2",
+     "Status": "Succeeded",
+     "Started At": "2026-10-04T04:05:00.000Z",
+     "Records Processed": 2,
+     "Retry Outcome": "Retry succeeded",
+     "Error Message": "First attempt: 429 Too Many Requests. Backed off 60s per Ratelimit-Reset header."
+    }
+   },
+   {
+    "id": "recmS0UbUMmBRmFUy",
+    "fields": {
+     "Run Label": "Post-stream sync \u00b7 Ranked Grind Night",
+     "Status": "Succeeded",
+     "Started At": "2026-09-22T04:15:00.000Z",
+     "Records Processed": 2,
+     "Retry Outcome": "Not retried"
+    }
+   }
+  ],
+  "Campaigns": [
+   {
+    "id": "recVVM893lmWvjQVV",
+    "fields": {
+     "Campaign Name": "Volt Energy Fall Push",
+     "Brand": "Volt Energy (fictional)",
+     "Contract Status": "Active",
+     "Contract Value": 12000,
+     "Allocated to Streams": 10500,
+     "Received to Date": 7500
+    }
+   },
+   {
+    "id": "recL7qrtLIOgCmaPV",
+    "fields": {
+     "Campaign Name": "Keystone Keyboards Launch",
+     "Brand": "Keystone Peripherals (fictional)",
+     "Contract Status": "Active",
+     "Contract Value": 8000,
+     "Allocated to Streams": 8000,
+     "Received to Date": 2000
+    }
+   },
+   {
+    "id": "recOuBZevs5THGTG0",
+    "fields": {
+     "Campaign Name": "Northwind VPN Holiday",
+     "Brand": "Northwind VPN (fictional)",
+     "Contract Status": "Signed",
+     "Contract Value": 6500,
+     "Allocated to Streams": 4500
+    }
+   },
+   {
+    "id": "recBHqWOD0fQVyEyo",
+    "fields": {
+     "Campaign Name": "Harvest Table Recipe Series",
+     "Brand": "Harvest Table Meal Kits (fictional)",
+     "Contract Status": "Completed",
+     "Contract Value": 5000,
+     "Allocated to Streams": 5000,
+     "Received to Date": 2500
+    }
+   },
+   {
+    "id": "recmn52NQmaVHuvsF",
+    "fields": {
+     "Campaign Name": "Lumen Lighting Q1",
+     "Brand": "Lumen Studio Lights (fictional)",
+     "Contract Status": "Proposed",
+     "Contract Value": 4000
+    }
+   }
+  ]
+ }
+}
