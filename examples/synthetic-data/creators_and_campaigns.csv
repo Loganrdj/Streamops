@@ -1,0 +1,11 @@
+Table,Name,Detail 1,Detail 2,Detail 3,Status
+Creators,Nova Reyes,novareyes_demo,SYN-100001,nova@example.com,Active
+Creators,Kai Thornton,kaiplays_demo,SYN-100002,kai@example.com,Active
+Creators,Mira Okafor,miracooks_demo,SYN-100003,mira@example.com,Active
+Creators,Dex Lindqvist,dexbuilds_demo,SYN-100004,dex@example.com,Active
+Creators,Sol Amari,solamari_demo,SYN-100005,sol@example.com,Inactive
+Campaigns,Volt Energy Fall Push,Volt Energy (fictional),12000,2026-09-15 to 2026-11-30,Active
+Campaigns,Keystone Keyboards Launch,Keystone Peripherals (fictional),8000,2026-10-01 to 2026-11-15,Active
+Campaigns,Harvest Table Recipe Series,Harvest Table Meal Kits (fictional),5000,2026-09-01 to 2026-10-15,Completed
+Campaigns,Northwind VPN Holiday,Northwind VPN (fictional),6500,2026-11-01 to 2026-12-31,Signed
+Campaigns,Lumen Lighting Q1,Lumen Studio Lights (fictional),4000,2027-01-10 to 2027-03-31,Proposed
